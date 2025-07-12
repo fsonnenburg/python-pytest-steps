@@ -29,7 +29,7 @@ With `pytest-steps` you don't have to care about the internals: it just works as
 ## Installing
 
 ```bash
-> pip install pytest_steps
+> pip install pytest-steps
 ```
 
 ## 1. Usage - "generator" mode
